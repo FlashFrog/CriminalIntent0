@@ -119,6 +119,10 @@ public class CrimeListFragment extends Fragment {
         @Override
         public void onClick(View v){
             Intent intent = CrimePagerActivity.newIntent(getActivity(),mCrime.getId());
+            Bundle args = new Bundle();
+            args.putSerializable("crime_id",mCrime.getId());
+            CrimeListFragment listFragment = new CrimeListFragment();
+            listFragment.setArguments(args);
             startActivity(intent);
         }
     }

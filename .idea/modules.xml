@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CriminalIntent.iml" filepath="$PROJECT_DIR$/CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CriminalIntent0.iml" filepath="$PROJECT_DIR$/CriminalIntent0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Criminallntent.iml" filepath="$PROJECT_DIR$/Criminallntent.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
